@@ -1,0 +1,10 @@
+BACKEND:{
+    express, 
+    cors, 
+    fs-extra, 
+    morgan, 
+    multer, 
+    timeago.js: PARA EL DIA Y TIEMPO, 
+    uuid: GENERA ID ALEATORIO PERMITE HACER IMAGENES UNICA CON ID
+    mongoose
+}
